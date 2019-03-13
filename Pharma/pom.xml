@@ -8,7 +8,7 @@
 	<name>PharmaProject</name>
 	<description>PharmaProject</description>
 	<properties>
-		<spring.version>4.1.1.RELEASE</spring.version>
+		<spring.version>4.3.7.RELEASE</spring.version>
 		<apache.tiles.version>3.0.3</apache.tiles.version>
 		<org.aspectj-version>1.7.4</org.aspectj-version>
 	</properties>
